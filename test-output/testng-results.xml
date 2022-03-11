@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-11T11:03:22 BOT" name="Default suite" finished-at="2022-03-11T11:03:34 BOT" duration-ms="11934">
+    <groups>
+    </groups>
+    <test started-at="2022-03-11T11:03:22 BOT" name="Default test" finished-at="2022-03-11T11:03:34 BOT" duration-ms="11934">
+      <class name="AutoTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:AutoTest@ea6147e]" started-at="2022-03-11T11:03:22 BOT" name="beforeClass" finished-at="2022-03-11T11:03:25 BOT" duration-ms="2498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="validateIfIphone13LabelAreDisplayed()[pri:0, instance:AutoTest@ea6147e]" started-at="2022-03-11T11:03:25 BOT" name="validateIfIphone13LabelAreDisplayed" finished-at="2022-03-11T11:03:28 BOT" duration-ms="3075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateIfIphone13LabelAreDisplayed -->
+        <test-method signature="validateIfWeAreInIphone13Page()[pri:0, instance:AutoTest@ea6147e]" started-at="2022-03-11T11:03:28 BOT" name="validateIfWeAreInIphone13Page" finished-at="2022-03-11T11:03:29 BOT" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateIfWeAreInIphone13Page -->
+        <test-method signature="validateInnovationTextInMacTab()[pri:0, instance:AutoTest@ea6147e]" started-at="2022-03-11T11:03:29 BOT" name="validateInnovationTextInMacTab" finished-at="2022-03-11T11:03:30 BOT" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInnovationTextInMacTab -->
+        <test-method signature="validateIphone13MenuOptions()[pri:0, instance:AutoTest@ea6147e]" started-at="2022-03-11T11:03:30 BOT" name="validateIphone13MenuOptions" finished-at="2022-03-11T11:03:33 BOT" duration-ms="3104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateIphone13MenuOptions -->
+        <test-method signature="validatePowerTextInMacTab()[pri:0, instance:AutoTest@ea6147e]" started-at="2022-03-11T11:03:33 BOT" name="validatePowerTextInMacTab" finished-at="2022-03-11T11:03:34 BOT" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePowerTextInMacTab -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AutoTest@ea6147e]" started-at="2022-03-11T11:03:34 BOT" name="afterClass" finished-at="2022-03-11T11:03:34 BOT" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AutoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
